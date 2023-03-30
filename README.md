@@ -5,7 +5,7 @@ You need to have RayLib installed and you must provide its local path to the Mak
 The code is mostly here for inspection. To play the game, you have to edit the .json and Makefile files to your local directories.
 
 
-To run the game, basically compile the code on the workspace file. The game is over if the player touches an orb and must be shutdown and ran again to play. 
+To run the game, basically compile the code in dasher.cpp. The game is over if the player touches an orb and must be shutdown and ran again to play. 
 Use SPACE to jump over the obstacles.
 
 Created by following the GameDev.tv course named "C++ Fundementals: Game Programming For Beginners".
